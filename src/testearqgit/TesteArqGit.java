@@ -15,9 +15,9 @@ public class TesteArqGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Teste aqr1 4");
-        System.out.println("Teste aqr1 5");
-        System.out.println("Teste aqr1 6");
+        System.out.println("Teste aqr1 1");
+        System.out.println("Teste aqr1 2");
+        System.out.println("Teste aqr1 3");
         
     }
     
