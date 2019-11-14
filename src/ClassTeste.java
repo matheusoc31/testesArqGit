@@ -10,10 +10,10 @@
  */
 public class ClassTeste {
      public static void main(String[] args) {
-        System.out.println("Teste aqr2 5");
-        System.out.println("Teste aqr2 6");
-        System.out.println("Teste aqr2 7");
-        System.out.println("Teste aqr2 8");
+        System.out.println("Teste aqr2 1");
+        System.out.println("Teste aqr2 2");
+        System.out.println("Teste aqr2 3");
+        System.out.println("Teste aqr2 4");
         
     }
 }
